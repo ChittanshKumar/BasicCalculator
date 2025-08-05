@@ -1,4 +1,4 @@
-#Task 1 = Basic Calculator App
+# Basic Calculator App
 
 A simple Android calculator application that performs basic arithmetic operations:
 
